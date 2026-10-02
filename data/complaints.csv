@@ -1,0 +1,11 @@
+Complaint_ID,Customer,Category,Priority,Description
+1001,Amit,Login,High,Unable to login
+1002,Rahul,Payment,Medium,Payment deducted twice
+1003,Priya,Delivery,Low,Package delayed
+1004,Anita,Refund,High,Refund not received
+1005,Vikram,Login,Medium,Password reset not working
+1006,Sneha,Payment,High,Money deducted but order failed
+1007,Rohit,Delivery,Medium,Wrong item delivered
+1008,Neha,Refund,Low,Refund taking too long
+1009,Karan,Login,High,Account locked unexpectedly
+1010,Pooja,Delivery,Medium,Package tracking not updated
